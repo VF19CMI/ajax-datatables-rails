@@ -1,4 +1,4 @@
-class AjaxDatatablesRails
+class AjaxDatatablesRails::Base
   module Extensions
     module SimplePaginator
 
