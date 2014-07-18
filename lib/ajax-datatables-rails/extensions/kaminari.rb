@@ -1,4 +1,5 @@
-class  module Extensions
+class AjaxDatatablesRails::Base
+  module Extensions
     module Kaminari
 
       private
