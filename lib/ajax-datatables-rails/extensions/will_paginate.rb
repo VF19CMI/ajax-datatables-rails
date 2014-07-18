@@ -1,4 +1,4 @@
-module AjaxDatatablesRails
+class AjaxDatatablesRails
   module Extensions
     module WillPaginate
 
