@@ -1,4 +1,4 @@
-module AjaxDatatablesRails
+class AjaxDatatablesRails
   class Base
     extend Forwardable
     class MethodNotImplementedError < StandardError; end
